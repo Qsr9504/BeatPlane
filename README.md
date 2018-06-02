@@ -1,7 +1,7 @@
 # BeatPlane
   小游戏主要内容
   
-> [1. 游戏背景无限循环滚动]https://github.com/Qsr9504/BeatPlane#1游戏背景无限循环处理) 
+> [1. 游戏背景无限循环滚动](https://github.com/Qsr9504/BeatPlane#1游戏背景无限循环处理) 
 
 > [2. 检测手指（鼠标控制）英雄机]() 
 
